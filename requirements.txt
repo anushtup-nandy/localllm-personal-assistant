@@ -1,0 +1,14 @@
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-text-splitters
+langchain
+faiss-cpu
+sentence-transformers
+gradio
+ctransformers
+unstructured
+"unstructured[all-docs]"
+pdf2image
+poppler-utils
+libmagic-dev

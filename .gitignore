@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Vector store directory
+vectorstore_db/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+personal_assistant.egg-info/
+.env
